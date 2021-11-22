@@ -1,1 +1,1 @@
-# wpa
+# This pwa for private website
